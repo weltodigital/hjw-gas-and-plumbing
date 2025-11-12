@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+
+# Allow all search engines to crawl all pages
+Allow: /index.html
+Allow: /services.html
+Allow: /areas.html
+
+# Sitemap location
+Sitemap: https://hjwgasandplumbing.co.uk/sitemap.xml
+
+# Crawl delay (optional - helps with server load)
+Crawl-delay: 1
+
+# Block access to admin or private files (add as needed)
+Disallow: /admin/
+Disallow: /.git/
+Disallow: /private/
+
+# Allow Google Image Bot
+User-agent: Googlebot-Image
+Allow: /images/
+
+# Additional search engine specific rules
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

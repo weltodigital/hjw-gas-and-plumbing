@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Services Page -->
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/services.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Areas Page -->
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/areas.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Location-specific pages (future expansion) -->
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/winchester-plumber.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/southampton-plumber.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/brighton-plumber.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/portsmouth-plumber.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/chichester-plumber.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Service-specific pages (future expansion) -->
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/emergency-plumber-hampshire.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/boiler-repair-sussex.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/gas-safety-certificates.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Legal pages -->
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/privacy.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <url>
+        <loc>https://hjwgasandplumbing.co.uk/terms.html</loc>
+        <lastmod>2024-11-04</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+</urlset>
