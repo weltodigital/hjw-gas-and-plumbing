@@ -88,6 +88,15 @@
     # Redirect www to non-www
     RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
     RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+    # Clean URLs - Remove .html extension
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^([^\.]+)$ $1.html [L]
+
+    # Redirect .html URLs to clean URLs
+    RewriteCond %{THE_REQUEST} /([^.]+)\.html [NC]
+    RewriteRule ^ /%1? [NC,L,R=301]
 </IfModule>
 
 # Content Security Policy
